@@ -1,0 +1,3 @@
+kurigram
+tgcrypto
+pymongo~=4.13.0

@@ -1,0 +1,140 @@
+{
+    "_": "Message",
+    "id": 37921,
+    "from_user": {
+        "_": "User",
+        "id": 7527287627,
+        "is_self": false,
+        "is_contact": false,
+        "is_mutual_contact": false,
+        "is_deleted": false,
+        "is_bot": false,
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "is_premium": true,
+        "is_contact_require_premium": false,
+        "is_close_friend": false,
+        "is_stories_hidden": false,
+        "is_stories_unavailable": true,
+        "is_business_bot": false,
+        "first_name": "Morbius",
+        "last_name": "Levakov",
+        "status": "UserStatus.RECENTLY",
+        "username": "morbiuslevakov",
+        "usernames": [
+            {
+                "_": "Username",
+                "username": "morbiuslevakov",
+                "editable": false,
+                "active": true
+            },
+            {
+                "_": "Username",
+                "username": "secondtimeuser",
+                "editable": true,
+                "active": true
+            }
+        ],
+        "language_code": "en",
+        "emoji_status": {
+            "_": "EmojiStatus",
+            "custom_emoji_id": 5240221221970265091
+        },
+        "dc_id": 2,
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADAgADG_IxGwftsEkAEAIAA0tLqcABAAMkR2kR2TIlqgAEHgQ",
+            "small_photo_unique_id": "AgADG_IxGwftsEk",
+            "big_file_id": "AQADAgADG_IxGwftsEkAEAMAA0tLqcABAAMkR2kR2TIlqgAEHgQ",
+            "big_photo_unique_id": "AgADG_IxGwftsEk",
+            "has_animation": false,
+            "is_personal": false
+        },
+        "reply_color": {
+            "_": "ChatColor",
+            "color": "ReplyColor.BLUE_DARK_BLUE",
+            "background_emoji_id": 5246734896356936944
+        },
+        "profile_color": {
+            "_": "ChatColor",
+            "color": "ProfileColor.PINK",
+            "background_emoji_id": 5343545593807521643
+        },
+        "added_to_attachment_menu": false,
+        "inline_need_location": false,
+        "can_be_edited": false,
+        "can_be_added_to_attachment_menu": false,
+        "can_join_groups": false,
+        "can_read_all_group_messages": false,
+        "has_main_web_app": false
+    },
+    "date": "2025-05-31 12:47:19",
+    "chat": {
+        "_": "Chat",
+        "id": 7527287627,
+        "type": "ChatType.PRIVATE",
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "is_stories_hidden": false,
+        "is_stories_unavailable": true,
+        "is_business_bot": false,
+        "username": "morbiuslevakov",
+        "usernames": [
+            {
+                "_": "Username",
+                "username": "morbiuslevakov",
+                "editable": false,
+                "active": true
+            },
+            {
+                "_": "Username",
+                "username": "secondtimeuser",
+                "editable": true,
+                "active": true
+            }
+        ],
+        "first_name": "Morbius",
+        "last_name": "Levakov",
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADAgADG_IxGwftsEkAEAIAA0tLqcABAAMkR2kR2TIlqgAEHgQ",
+            "small_photo_unique_id": "AgADG_IxGwftsEk",
+            "big_file_id": "AQADAgADG_IxGwftsEkAEAMAA0tLqcABAAMkR2kR2TIlqgAEHgQ",
+            "big_photo_unique_id": "AgADG_IxGwftsEk",
+            "has_animation": false,
+            "is_personal": false
+        },
+        "dc_id": 2,
+        "reply_color": {
+            "_": "ChatColor",
+            "color": "ReplyColor.BLUE_DARK_BLUE",
+            "background_emoji_id": 5246734896356936944
+        },
+        "profile_color": {
+            "_": "ChatColor",
+            "color": "ProfileColor.PINK",
+            "background_emoji_id": 5343545593807521643
+        }
+    },
+    "from_offline": false,
+    "show_caption_above_media": false,
+    "mentioned": false,
+    "scheduled": false,
+    "from_scheduled": false,
+    "edit_hidden": false,
+    "has_protected_content": false,
+    "text": "hey",
+    "video_processing_pending": false,
+    "outgoing": false,
+    "business_connection_id": "OcYOiU_l0FEoBQAADEcHNEphWlw",
+    "unread_media": false,
+    "silent": false,
+    "pinned": false,
+    "channel_post": false
+}

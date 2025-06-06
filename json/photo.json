@@ -1,0 +1,22 @@
+{
+    "_": "Message",
+    "id": 38104,
+    "from_user": {
+        "_": "User",
+        "id": 7689370219,
+        "first_name": "MR.FREEMAN",
+        "status": "UserStatus.RECENTLY",
+        "username": "MrFreemanForever",
+        "dc_id": 2
+    },
+    "date": "2025-06-02 18:47:46",
+    "chat": {
+        "_": "Chat",
+        "id": 7689370219,
+        "type": "ChatType.PRIVATE",
+        "username": "MrFreemanForever",
+        "first_name": "MR.FREEMAN",
+        "dc_id": 2
+    },
+    "outgoing": false
+}
